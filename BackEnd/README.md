@@ -425,9 +425,9 @@ This project is licensed under the ISC License - see the [LICENSE](../LICENSE) f
 
 ## 👨‍💻 Author
 
-**Nhan Pham Thanh**
+**Anil Sharma**
 
-- GitHub: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
+- GitHub: [@surpanch111](https://github.com/surpanch111)
 
 ## 🙏 Acknowledgments
 
