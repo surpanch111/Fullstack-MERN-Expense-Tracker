@@ -160,3 +160,4 @@ const ExpensePage = () => {
 }
 
 export default ExpensePage;
+export default ExpensePage;
