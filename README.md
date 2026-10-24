@@ -800,9 +800,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | 🚀 **Live Demo**     | [Coming Soon]                                                                                        | Try the application online       |
 | 📖 **Backend Docs**  | [Backend README](./BackEnd/README.md)                                                                | API documentation and setup      |
 | 📖 **Frontend Docs** | [Frontend README](./FrontEnd/README.md)                                                              | UI components and configuration  |
-| 🐛 **Issues**        | [GitHub Issues](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/issues)           | Bug reports and feature requests |
-| 💬 **Discussions**   | [GitHub Discussions](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/discussions) | Community Q&A and ideas          |
-| 📋 **Project Board** | [GitHub Projects](https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker/projects)       | Development roadmap              |
+| 🐛 **Issues**        | [GitHub Issues](https://github.com/surpanch111/Fullstack-MERN-Expense-Tracker/issues)                | Bug reports and feature requests |
+| 💬 **Discussions**   | [GitHub Discussions](https://github.com/surpanch111/Fullstack-MERN-Expense-Tracker/discussions)      | Community Q&A and ideas          |
+| 📋 **Project Board** | [GitHub Projects](https://github.com/surpanch111/Fullstack-MERN-Expense-Tracker/projects)            | Development roadmap              |
 
 ---
 
