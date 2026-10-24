@@ -203,7 +203,7 @@ Before you begin, ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker.git
+git clone https://github.com/surpanch111/Fullstack-MERN-Expense-Tracker.git
 cd Fullstack-MERN-Expense-Tracker
 ```
 
@@ -521,7 +521,7 @@ vercel --prod
 
 ```bash
 # Clone and setup
-git clone https://github.com/NhanPhamThanh-IT/Fullstack-MERN-Expense-Tracker.git
+git clone https://github.com/surpanch111/Fullstack-MERN-Expense-Tracker.git
 cd Fullstack-MERN-Expense-Tracker
 
 # Install dependencies for both backend and frontend
@@ -736,10 +736,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author & Maintainer
 
-**Nhan Pham Thanh**
+**Anil Sharma**
 
-- 🐙 **GitHub**: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 🐙 **GitHub**: [@surpanch111](https://github.com/surpanch111)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anil-pancholi01)
 - 🌐 **Portfolio**: [Your Portfolio Website]
 - 📧 **Email**: [your.email@example.com]
 
