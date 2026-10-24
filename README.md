@@ -26,20 +26,6 @@ The MERN Fullstack Expense Tracker is designed to help individuals take control 
 
 🔗 **[View Live Application](https://your-app-url.com)** _(Coming Soon)_
 
-## 📸 Screenshots
-
-### Dashboard Overview
-
-![Dashboard](./screenshots/dashboard.png)
-
-### Expense Analytics
-
-![Analytics](./screenshots/analytics.png)
-
-### Mobile View
-
-![Mobile](./screenshots/mobile.png)
-
 ## ✨ Key Features
 
 ### 🔐 **Authentication & Security**
