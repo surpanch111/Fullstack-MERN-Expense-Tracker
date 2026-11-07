@@ -727,7 +727,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐙 **GitHub**: [@surpanch111](https://github.com/surpanch111)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anil-pancholi01)
 - 🌐 **Portfolio**: [Your Portfolio Website]
-- 📧 **Email**: [your.email@example.com]
+- 📧 **Email**: [surpanch111@gmail.com]
 
 ## 🙏 Acknowledgments
 
